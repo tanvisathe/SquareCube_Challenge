@@ -1,0 +1,6 @@
+c:\users\tanvi\documents\visual studio 2017\Projects\Lab3\Lab3\bin\Debug\Lab3.exe.config
+c:\users\tanvi\documents\visual studio 2017\Projects\Lab3\Lab3\bin\Debug\Lab3.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\Lab3\Lab3\bin\Debug\Lab3.pdb
+c:\users\tanvi\documents\visual studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Tanvi\Documents\Visual Studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
